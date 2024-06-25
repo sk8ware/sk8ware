@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Welcome!](https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif)
+![Welcome!](https://www2.img2go.com/v2/dl/web7/download-file/5b57d334-581e-4373-bc9d-02b02005e2e3/gif.gif)
 
 </div>
 
