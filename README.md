@@ -1,12 +1,11 @@
 # skateware
 
 <div align="center">
-
-![Welcome!](https://www2.img2go.com/v2/dl/web7/download-file/5b57d334-581e-4373-bc9d-02b02005e2e3/gif.gif)
-
+    <img src="https://www7.online-convert.com/v2/dl/web7/download-file/5391b6ac-ff60-4d6c-b2bb-3df2a63cd545/gif.gif" alt="Welcome GIF">
 </div>
 
 <div align="center">
+
 
 <h1 align="center">Hi 👋, I'm Sk8ware</h1>
 <h3 align="center">👋 Hi there! I'm a 25-year-old passionate about ethical hacking from Ecuador. Currently preparing for the eJPT certification. My GitHub explores Linux basics, ethical hacking fundamentals, and offensive Python. Dive into practical guides and Hack The Box machines as I share my journey in cybersecurity.</h3>
