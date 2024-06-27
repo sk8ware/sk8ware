@@ -1,4 +1,4 @@
-# skateware
+# Sk8ware
 
 <div align="center">
     <img src="https://github.com/sk8ware/sk8ware/assets/159751795/0cae9b9f-e436-477b-9d4f-ffb6523d5f61" alt="Welcome GIF">
