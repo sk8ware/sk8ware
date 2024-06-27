@@ -1,10 +1,8 @@
 # skateware
 
 <div align="center">
-    <img src="https://www7.online-convert.com/v2/dl/web7/download-file/5391b6ac-ff60-4d6c-b2bb-3df2a63cd545/gif.gif" alt="Welcome GIF">
+    <img src="https://github.com/sk8ware/sk8ware/assets/159751795/0cae9b9f-e436-477b-9d4f-ffb6523d5f61" alt="Welcome GIF">
 </div>
-
-<div align="center">
 
 
 <h1 align="center">Hi 👋, I'm Sk8ware</h1>
