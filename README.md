@@ -43,16 +43,4 @@
 <p><a href="https://www.buymeacoffee.com/sk8ware"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a></p><br><br>
 
 <i>¡Feliz hacking!</i> 😊
-
-</div>
-
-<div align="center">
-
-![Sk8ware's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk8ware&show_icons=true&theme=dark)
-
-</br>
-</br>
-<i>¡Un chiste de desarrollo para ti! (crea el tuyo haciendo clic aquí ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
 ---
