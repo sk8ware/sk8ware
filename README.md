@@ -27,7 +27,6 @@ Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente prepa
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sk8ware&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sk8ware&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk8ware&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sk8ware&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
