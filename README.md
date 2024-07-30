@@ -3,8 +3,17 @@
 </div>
 
 # 💫 About Me:
-Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente preparándome para la certificación eJPT. Mi GitHub incluye proyectos sobre fundamentos de Linux, hacking ético y Python ofensivo. Estoy trabajando en perfeccionar mis habilidades en hacking ético y explorando temas avanzados en ciberseguridad.<br>🔭 Estoy interesado en colaborar en proyectos de ciberseguridad, especialmente en hacking ético y seguridad ofensiva.<br><br>🌱 También estoy buscando ayuda para dominar técnicas avanzadas en hacking ético y prepararme eficazmente para la certificación eJPT.<br><br>👨‍💻 Mis proyectos están disponibles en https://github.com/sk8ware<br><br>📝 Regularmente escribo artículos sobre Introducción al hacking ético<br><br>💬 Puedes contactarme en Instagram
 
+Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente preparándome para la certificación eJPT. Mi GitHub incluye proyectos sobre fundamentos de Linux, hacking ético y Python ofensivo. Estoy trabajando en perfeccionar mis habilidades en hacking ético y explorando temas avanzados en ciberseguridad.
+
+<br>🔭 Estoy interesado en colaborar en proyectos de ciberseguridad, especialmente en hacking ético y seguridad ofensiva.<br>
+<br>🌱 También estoy buscando ayuda para dominar técnicas avanzadas en hacking ético y prepararme eficazmente para la certificación eJPT.<br>
+<br>👨‍💻 Mis proyectos están disponibles en https://github.com/sk8ware<br>
+<br>📝 Regularmente escribo artículos sobre:<br>
+ - [Introducción al hacking ético](https://github.com/sk8ware/Introduccion_al_hacking_etico)
+ - [Preparación para la eJPTv2](https://github.com/sk8ware/Preparacion_para_la_certificacion_eJPTv2)
+
+<br>💬 Puedes contactarme en [Instagram](https://www.instagram.com/sk8ware_/)<br>
 ## 🌐 Socials:
 <p align="left">
     <a href="https://www.instagram.com/sk8ware_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
