@@ -4,7 +4,7 @@
 
 # 💫 Acerca de mí
 
-Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente preparándome para la certificación eJPT. Mi GitHub incluye proyectos sobre fundamentos de Linux, hacking ético y Python ofensivo. Estoy trabajando en perfeccionar mis habilidades en hacking ético y explorando temas avanzados en ciberseguridad.
+Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente preparándome para la certificación eWPT y OSCP. Mi GitHub incluye proyectos sobre fundamentos de Linux, hacking ético y Python ofensivo. Estoy trabajando en perfeccionar mis habilidades en hacking ético y explorando temas avanzados en ciberseguridad.
 
 🔭 **Intereses:** Colaborar en proyectos de ciberseguridad, especialmente en hacking ético y seguridad ofensiva.  
 
