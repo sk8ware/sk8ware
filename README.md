@@ -34,6 +34,10 @@ Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente prepa
 
 Una guía completa para iniciarse en el mundo de Linux, cubriendo temas esenciales como actualización del sistema, permisos, estructura de directorios y más.
 
+### 🎯 [Preparación para la Certificación eJPT](https://github.com/sk8ware/Preparacion_para_la_certificacion_eJPTv2)
+
+Prepárate para el examen eJPT con guías detalladas, ejercicios prácticos y recursos para fortalecer tus habilidades en hacking ético y ciberseguridad.
+
 ### 🛠️ [Personalizar el Entorno Linux](https://github.com/sk8ware/Personalizar_el_Entorno_Linux)
 
 Aprende a configurar y personalizar tu entorno Linux para mejorar tu experiencia como hacker ético, con guías detalladas sobre Bspwm, Polybar, y más.
