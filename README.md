@@ -101,7 +101,7 @@ Colección de máquinas virtuales completas para práctica de hacking ético y t
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sk8ware&icon=0&color=11)](https://visitcount.itsvg.in)
+![Visitas](https://komarev.com/ghpvc/?username=sk8ware&label=Profile%20Views&color=blue&style=flat)
 
 ## 💰 Apóyame
 
