@@ -10,7 +10,7 @@ Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente prepa
 
 🌱 **Aprendiendo:** Técnicas avanzadas en hacking ético y preparación para la certificación eWPT y OSCP.  
 
-👨‍💻 **Proyectos:** Disponibles en [GitHub](https://github.com/sk8ware).  
+👨‍💻 **Proyectos:** Disponibles en [GitHub](https://github.com/sk8ware?tab=repositories).  
 
 📝 **Artículos:** Regularmente escribo sobre:
 
