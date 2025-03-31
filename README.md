@@ -2,7 +2,7 @@
     <img src="https://github.com/sk8ware/sk8ware/assets/159751795/0cae9b9f-e436-477b-9d4f-ffb6523d5f61" alt="Welcome GIF">
 </div>
 
-# 💫 Acerca de mí
+# Acerca de mí 
 
 Soy un apasionado de la ciberseguridad de 25 años de Ecuador, actualmente preparándome para la certificación eWPT y OSCP. Mi GitHub incluye proyectos sobre fundamentos de Linux, hacking ético y Python ofensivo. Estoy trabajando en perfeccionar mis habilidades en hacking ético y explorando temas avanzados en ciberseguridad.
 
