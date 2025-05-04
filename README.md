@@ -20,7 +20,7 @@ Actualmente me preparo para las certificaciones **eWPT** y **OSCP** mientras col
 ## 🏌️ Logros Destacados
 
 * ✅ Certificación **eJPT** (INE)
-* 🎤 Ponente en **FLISOL Quito 2025** (Análisis básico de malware con Ghidra)
+* 🎤 Ponente en **FLISOL Quito 2025** 
 * 🛡️ Red Teamer en **Reverse Everything**
 
 ## 🚧 Actualmente trabajando en
