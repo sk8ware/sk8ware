@@ -6,7 +6,7 @@
 
 | 🔐                | 👨‍💻                    | 🇪🇨        | 🎤                                  |
 | ----------------- | ------------------------ | ----------- | ----------------------------------- |
-| **Pentester Jr.** | **Python Offensive Dev** | **Ecuador** | **Ponente:// FLISOL 2025 / 8.8 Computer Security Conference 2024 / pwnd or die 2024** |
+| **Pentester** | **Python Offensive Dev** | **Ecuador** | **Ponente:// FLISOL 2025 / 8.8 Computer Security Conference 2024 / pwnd or die 2024** |
 
 ---
 
