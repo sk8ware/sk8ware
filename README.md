@@ -26,7 +26,7 @@ Actualmente me preparo para las certificaciones **eWPT** y **OSCP** mientras col
 ## 🚧 Actualmente trabajando en
 
 * Desarrollo de una herramienta OSINT en Python 🕵️‍♂️
-* Preparación para la certificación **OSCP** 🧪
+* Preparación para la certificación **BSCP** 🧪
 * Ampliando conocimientos en **automatización con Burp Suite, varias tools de hacking web y bug bounty**
 
 ## 📚 Proyectos Destacados
