@@ -13,7 +13,7 @@
 ## 🧑‍💻 Acerca de mí
 
 🎯 Soy Anthony López, un apasionado de la ciberseguridad con enfoque en hacking ético, desarrollo ofensivo en Python y análisis de vulnerabilidades.
-Actualmente me preparo para las certificaciones **eWPT** y **OSCP** mientras colaboro en proyectos reales de pentesting.
+Actualmente me preparo para las certificaciones **CBBH** y **CWEE** mientras colaboro en proyectos reales de pentesting.
 
 📚 Comparto recursos técnicos gratuitos, writeups y herramientas a través de mi GitHub, blog y redes, con el objetivo de inspirar a futuros hackers éticos en Latinoamérica.
 
@@ -21,18 +21,18 @@ Actualmente me preparo para las certificaciones **eWPT** y **OSCP** mientras col
 
 * ✅ Certificación **eJPT** (INE)
 * 🎤 Ponente en **FLISOL Quito 2025** 
-* 🛡️ Red Teamer en **Reverse Everything**
+* 🛡️ Red Teamer en **OXTeams**
 
 ## 🚧 Actualmente trabajando en
 
 * Desarrollo de una herramienta OSINT en Python 🕵️‍♂️
-* Preparación para la certificación **BSCP** 🧪
-* Ampliando conocimientos en **automatización con Burp Suite, varias tools de hacking web y bug bounty**
+* Preparación para la certificación **CBBH** 🧪
+* Ampliando conocimientos en **automatización en Treat Hunting, varias tools de hacking web y bug bounty**
 
 ## 📚 Proyectos Destacados
-### 1⃣ [Preparación para la Certificación BSCP y eWPT](https://github.com/sk8ware/Preparacion_eWPT)
+### 1⃣ [Preparación para la Certificación CBBH](https://github.com/sk8ware/CBBH)
 
-Recopilación de notas, técnicas de explotación web, laboratorios resueltos y consejos prácticos para aprobar la certificación BSCP y eWPT. Ideal para quienes buscan reforzar sus conocimientos en pentesting web avanzado.
+Recopilación de notas, técnicas de explotación web, laboratorios resueltos y consejos prácticos para aprobar la certificación CBBH. Ideal para quienes buscan reforzar sus conocimientos en pentesting web avanzado.
 
 ### 2⃣ [Preparación para la Certificación eJPT](https://github.com/sk8ware/Preparacion_para_la_certificacion_eJPTv2)
 
