@@ -2,61 +2,130 @@
     <img src="https://github.com/sk8ware/sk8ware/assets/159751795/0cae9b9f-e436-477b-9d4f-ffb6523d5f61" alt="Welcome GIF">
 </div>
 
-# 👋 Bienvenido a mi perfil
+# 👋 ¡Hola! Soy Anthony López (sk8ware)
 
-| 🔐                | 👨‍💻                    | 🇪🇨        | 🎤                                  |
-| ----------------- | ------------------------ | ----------- | ----------------------------------- |
-| **Pentester** | **Python Offensive Dev** | **Ecuador** | **Ponente:// FLISOL 2025 / 8.8 Computer Security Conference 2024 / pwnd or die 2024** |
+| 🔐 | 🛡️ | 🇪🇨 | 🎤 |
+|:---:|:---:|:---:|:---:|
+| **Especialista en Ciberseguridad** | **Red Team · CTI · Pentesting** | **Ecuador** | **Conferencista en Ciberseguridad** |
 
 ---
 
-## 🧑‍💻 Acerca de mí
+# 🧑‍💻 Acerca de mí
 
-🎯 Soy Anthony López, un apasionado de la ciberseguridad con enfoque en hacking ético, desarrollo ofensivo en Python y análisis de vulnerabilidades.
-Actualmente me preparo para las certificaciones **CBBH** y **CWEE** mientras colaboro en proyectos reales de pentesting.
+Soy **Anthony López**, **Especialista en Ciberseguridad** de Ecuador apasionado por la **ciberseguridad ofensiva**, el **Red Team**, **Cyber Threat Intelligence (CTI)**, **Pentesting Web y Móvil**, la **investigación de vulnerabilidades** y el **desarrollo de herramientas ofensivas**.
 
-📚 Comparto recursos técnicos gratuitos, writeups y herramientas a través de mi GitHub, blog y redes, con el objetivo de inspirar a futuros hackers éticos en Latinoamérica.
+Actualmente trabajo realizando **pruebas de penetración en aplicaciones web, móviles e infraestructura**, investigaciones de **Threat Intelligence**, campañas de **Phishing**, ejercicios de **Red Team**, evaluaciones de seguridad y automatización de procesos utilizando Python.
 
-## 🏌️ Logros Destacados
+Además de mi trabajo profesional, disfruto investigar nuevas vulnerabilidades, desarrollar herramientas para la comunidad, participar en programas de **Bug Bounty** y compartir conocimiento mediante repositorios, writeups y contenido educativo gratuito.
 
-* ✅ Certificación **eJPT** (INE)
-* 🎤 Ponente en **FLISOL Quito 2025** 
-* 🛡️ Red Teamer en **OXTeams**
+🎯 **Objetivo actual:** Obtener la certificación **Hack The Box Certified Penetration Testing Specialist (CPTS)**.
 
-## 🚧 Actualmente trabajando en
+🎓 Actualmente curso la carrera de **Ingeniería en Software** en la **Universidad Internacional del Ecuador (UIDE)**.
 
-* Desarrollo de una herramienta OSINT en Python 🕵️‍♂️
-* Preparación para la certificación **CBBH** 🧪
-* Ampliando conocimientos en **automatización en Treat Hunting, varias tools de hacking web y bug bounty**
+---
 
-## 📚 Proyectos Destacados
-### 1⃣ [Preparación para la Certificación CBBH](https://github.com/sk8ware/CBBH)
+# 🏆 Certificaciones
 
-Recopilación de notas, técnicas de explotación web, laboratorios resueltos y consejos prácticos para aprobar la certificación CBBH. Ideal para quienes buscan reforzar sus conocimientos en pentesting web avanzado.
+- ✅ eJPT (INE Security)
+- ✅ CWES (Hack The Box)
+- ✅ CJCA (Hack The Box)
 
-### 2⃣ [Preparación para la Certificación eJPT](https://github.com/sk8ware/Preparacion_para_la_certificacion_eJPTv2)
+### 🚀 Próxima certificación
 
-Guías detalladas, ejercicios prácticos y recursos para fortalecer tus habilidades en hacking ético y ciberseguridad.
+- 🎯 CPTS (Hack The Box)
 
-### 3⃣ [Guía Inicial de Linux](https://github.com/sk8ware/Guia_Inicial_De_Linux)
+---
 
-Cobertura desde lo básico hasta la gestión de permisos, estructura de directorios y comandos esenciales.
+# 💼 Experiencia Profesional
 
-### 4⃣ [Personalizar el Entorno Linux](https://github.com/sk8ware/Personalizar_el_Entorno_Linux)
+**Especialista en Ciberseguridad**
 
-Tutoriales sobre Bspwm, Polybar, Rofi, y más para un entorno hacker profesional y eficiente.
+## Áreas de especialización
 
-### 5⃣ [Fundamentos del Hacking](https://github.com/sk8ware/Fundamentos_del_Hacking)
+- 🔴 Red Team
+- 🕵️ Cyber Threat Intelligence (CTI)
+- 🌐 Pentesting Web
+- 📱 Pentesting de Aplicaciones Móviles
+- 🖥️ Pentesting de Infraestructura Interna y Externa
+- 🎣 Simulaciones de Phishing
+- 🔍 OSINT
+- 🐍 Desarrollo Ofensivo en Python
+- ☁️ Investigación en Seguridad Cloud
+- 🧠 Investigación de Vulnerabilidades
 
-Técnicas esenciales, conceptos básicos y herramientas clave para iniciarse en ciberseguridad ofensiva.
+---
 
-### 6⃣ [Programación Ofensiva en Python](https://github.com/sk8ware/Programacion_Ofensiva_en_Python)
+# 🎤 Conferencias y Charlas
 
-Scripts reales para explotación, escaneo y automatización de tareas ofensivas.
+- 🎙️ **Hult Prize** — Escuela Politécnica Nacional (2025)
+- 🎙️ **Bug Bounty y Pentesting Empresarial** — Universidad Internacional del Ecuador (2025)
+- 🎙️ **FLISOL Quito** (2025)
+- 🎙️ **8.8 Computer Security Conference** (2024)
+- 🎙️ **Pwn or Die** (2024)
 
-### 7️⃣ [Máquinas Completadas](https://github.com/sk8ware/Maquinas_Completadas)
+---
 
-Documentación de laboratorios y retos resueltos de plataformas como HTB, TryHackMe y VulnHub.
+# 🚀 Actualmente trabajando en
+
+- 🔥 Preparación para la certificación **CPTS**
+- 📱 Seguridad en Aplicaciones Móviles
+- ☁️ Investigación en Seguridad Cloud
+- 🤖 Inteligencia Artificial aplicada a Ciberseguridad
+- 🕵️ Automatización de Cyber Threat Intelligence
+- 🐍 Desarrollo de herramientas ofensivas en Python
+- 🎯 Investigación en Bug Bounty
+
+---
+
+# 📚 Proyectos Destacados
+
+## 1️⃣ [Preparación para la Certificación CPTS](https://github.com/sk8ware/CPTS)
+
+Repositorio con apuntes, laboratorios, metodologías de ataque y recursos utilizados durante mi preparación para la certificación CPTS.
+
+---
+
+## 2️⃣ [Preparación para la Certificación CBBH](https://github.com/sk8ware/CBBH)
+
+Colección de notas, laboratorios, técnicas de explotación y metodologías enfocadas en Pentesting Web Avanzado.
+
+---
+
+## 3️⃣ [Preparación para la Certificación eJPT](https://github.com/sk8ware/Preparacion_para_la_certificacion_eJPTv2)
+
+Guías, laboratorios y recursos para fortalecer habilidades en hacking ético y preparación para la certificación eJPT.
+
+---
+
+## 4️⃣ [Programación Ofensiva en Python](https://github.com/sk8ware/Programacion_Ofensiva_en_Python)
+
+Scripts y herramientas desarrolladas para automatización, reconocimiento, explotación y apoyo en evaluaciones de seguridad.
+
+---
+
+## 5️⃣ [Guía Inicial de Linux](https://github.com/sk8ware/Guia_Inicial_De_Linux)
+
+Recursos desde nivel básico hasta administración de permisos, procesos y comandos utilizados en ciberseguridad.
+
+---
+
+## 6️⃣ [Personalización del Entorno Linux](https://github.com/sk8ware/Personalizar_el_Entorno_Linux)
+
+Configuración de BSPWM, Polybar, Picom, Rofi y herramientas para construir un entorno profesional para hacking ético.
+
+---
+
+## 7️⃣ [Fundamentos del Hacking](https://github.com/sk8ware/Fundamentos_del_Hacking)
+
+Repositorio con conceptos fundamentales, metodologías, networking, Linux, Active Directory, aplicaciones web y seguridad ofensiva.
+
+---
+
+## 8️⃣ [Máquinas Completadas](https://github.com/sk8ware/Maquinas_Completadas)
+
+Writeups y documentación de laboratorios resueltos en plataformas como Hack The Box, TryHackMe y VulnHub.
+
+---
 
 ## 💻 Conjunto de Tecnologías
 
@@ -105,7 +174,7 @@ Documentación de laboratorios y retos resueltos de plataformas como HTB, TryHac
 
 ## 🔝 Repositorio más contribuido
 
-![](https://github-contributor-stats.vercel.app/api?username=sk8ware\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+[Preparación para la Certificación eJPT](https://github.com/sk8ware/Preparacion_para_la_certificacion_eJPTv2)
 
 ---
 
