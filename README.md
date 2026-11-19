@@ -20,7 +20,7 @@ Además de mi trabajo profesional, disfruto investigar nuevas vulnerabilidades, 
 
 🎯 **Objetivo actual:** Obtener la certificación **Hack The Box Certified Penetration Testing Specialist (CPTS)**.
 
-🎓 Actualmente curso la carrera de **Ingeniería en Software** en la **Universidad Internacional del Ecuador (UIDE)**.
+🎓 Actualmente curso la carrera de **Ingeniería en Software** en la **Universidad De Las Américas (UDLA)**.
 
 ---
 
